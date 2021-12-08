@@ -1,0 +1,8 @@
+<meta>
+<!-- Info -->
+    <info author="DioguinScr" version="1.0" name="Hud com animcao para esutudos"/>
+<!-- Script -->
+	<script src="script/global.lua" type="shared"/>
+    <script src="script/usefull_c.lua" type="client"/>
+    <script src="script/client.lua" type="client"/>
+</meta>
